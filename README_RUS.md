@@ -200,3 +200,16 @@ PhD. Olga Frunze
 Division of Life Science
 Incheon National University
 Republic of Korea
+## Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/main_interface_RUS.PNG)
+
+### Example Calculation
+
+![Calculation](screenshots/calculations.PNG)
+
+### Results for *Apis mellifera*
+
+![Apis mellifera Results](screenshots/results_Apis_mellifera_RUS.PNG)
