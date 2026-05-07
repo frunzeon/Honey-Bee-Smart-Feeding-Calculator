@@ -152,9 +152,9 @@ This software is intended for educational and planning purposes only.
 The calculated values are approximate and should not replace professional beekeeping assessment or direct colony inspection.
 
 ## Contact
-- #### Prof. Hyung-Wook Kwon
+#### Prof. Hyung-Wook Kwon
 - E-mail: hwkwon@inu.ac.kr
-- #### PhD. Olga Frunze
+#### PhD. Olga Frunze
 - Division of Life Science
 - Incheon National University
 - Republic of Korea
