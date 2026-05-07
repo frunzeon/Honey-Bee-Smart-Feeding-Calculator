@@ -63,7 +63,6 @@ or execute:
 
 shiny::runApp()
 
-
 # How to Use
 ## Step 1 — Select Bee Species
 Choose:
@@ -96,34 +95,34 @@ The application uses an approximate practical conversion factor: 1.5
 
 This factor may vary depending on:
 
-	colony strength,
-	colony health,
-	feeding method,
-	environmental temperature,
-	seasonal conditions.
+- colony strength,
+- colony health,
+- feeding method,
+- environmental temperature,
+- seasonal conditions.
 ## Applications
 
 The application can be used for:
 
-	planning overwintering feeding strategies,
-	estimating sugar requirements,
-	economic comparison of feeding approaches,
-	educational demonstrations,
-	extension and outreach activities.
+- planning overwintering feeding strategies,
+- estimating sugar requirements,
+- economic comparison of feeding approaches,
+- educational demonstrations,
+- extension and outreach activities.
 ## Limitations
 
 The tool provides approximate estimates only.
 
 The application does not account for:
 
-	regional climate variation,
-	nectar availability,
-	colony genetics,
-	disease status,
-	parasite pressure,
-	colony-specific overwintering success,
-	market fluctuations,
-	additional management costs.
+- regional climate variation,
+- nectar availability,
+- colony genetics,
+- disease status,
+- parasite pressure,
+- colony-specific overwintering success,
+- market fluctuations,
+- additional management costs.
 
 Results should be interpreted together with field observations and local beekeeping experience.
 
@@ -131,36 +130,27 @@ Results should be interpreted together with field observations and local beekeep
 ## Missing Packages
 
 Install missing packages manually:
-
-install.packages("package_name")
-Older R Version
+- install.packages("package_name")
+- Older R Version
 
 Recommended:
 
-R version ≥ 4.0
-Test Shiny Installation
+- R version ≥ 4.0
+- Test Shiny Installation
 library(shiny)
 runExample("01_hello")
 
 If the example works, Shiny is correctly installed.
 
-## Repository Structure
-HoneyBee_Overwintering_Calculator/
-│
-├── app.R
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.R
-└── screenshots/
-##Citation
+## Citation
 
 If you use this software in scientific work, please cite:
 
-Frunze O. (2026).
-Honey Bee Overwintering and Economic Effectiveness Shiny App.
+Frunze et al. (2026).
+Honey Bee Smart Feeding Calculator Shiny App.
 GitHub repository.
-License
+
+## License
 
 This project is distributed under the GNU General Public License v3.0 (GPL-3.0).
 
