@@ -1,8 +1,8 @@
-Package: HoneyBeeSmartFeedingCalculator
-Type: Shiny
-Title: Honey Bee Smart Feeding Calculator Shiny Application
-Version: 1.0.0
-Authors@R:
+# Package: HoneyBeeSmartFeedingCalculator
+## Type: Shiny
+### Title: Honey Bee Smart Feeding Calculator Shiny Application
+- Version: 1.0.0
+- Authors@R:
     c(
       person(
         given = "Olga",
@@ -17,8 +17,8 @@ Authors@R:
         email = "hwkwon@inu.ac.kr"
       )
     )
-Description:
-    Interactive R Shiny application for estimating
+#### Description:
+     -Interactive R Shiny application for estimating
     sugar feeding requirements and economic costs
     associated with overwintering honey bee colonies.
     The application supports both Apis mellifera and
@@ -26,8 +26,8 @@ Description:
     calculations of total food requirements, sugar
     needs for 50 percent syrup preparation, and
     economic estimation of feeding strategies.
-License: GPL-3
-Encoding: UTF-8
+- License: GPL-3
+- Encoding: UTF-8
 LazyData: true
 Depends:
     R (>= 4.0)
@@ -38,9 +38,9 @@ Imports:
     writexl,
     ggplot2,
     dplyr
-Authors:
-    Olga Frunze [aut, cre],
-    Hyung-Wook Kwon [ths, cph]
-Maintainer:
-    Olga Frunze <frunzeon@gmail.com>
-    Hyung-Wook Kwon <hwkwon@inu.ac.kr>
+#### Authors:
+    - Olga Frunze [aut, cre],
+    - Hyung-Wook Kwon [ths, cph]
+#### Maintainer:
+    - Olga Frunze <frunzeon@gmail.com>
+   - Hyung-Wook Kwon <hwkwon@inu.ac.kr>
