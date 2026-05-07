@@ -51,11 +51,11 @@ https://posit.co/download/rstudio-desktop/
 
 ### 3. 필수 패키지 설치
 
-패키지 설치를 위해 “RUN1 pre.R” 파일을 실행하십시오.
+패키지 설치를 위해 “RUN1_pre.R” 파일을 실행하십시오.
 
 ### 4. 애플리케이션 실행
 
-RStudio에서 "RUN2.R" 파일을 실행한 후 Run App 버튼을 클릭하십시오.
+RStudio에서 "RUN2_app.R" 파일을 실행한 후 Run App 버튼을 클릭하십시오.
 
 또는 아래 명령어를 실행하십시오:
 
