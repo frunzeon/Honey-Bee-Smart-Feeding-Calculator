@@ -52,11 +52,11 @@ https://posit.co/download/rstudio-desktop/
 
 ### 3. Install Required Packages
 
-Run “RUN1 pre.R” to install packages. 
+Run “RUN1_pre.R” to install packages. 
 
 ### 4. Run the Application
 
-Run "RUN2.R" in RStudio and click:
+Run "RUN2_app.R" in RStudio and click:
 Run App
 
 or execute:
