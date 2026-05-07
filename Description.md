@@ -1,4 +1,4 @@
-# Package: HoneyBeeSmartFeedingCalculator
+# Package: Honey Bee Smart Feeding Calculator
 ## Type: Shiny
 ### Title: Honey Bee Smart Feeding Calculator Shiny Application
 - Version: 1.0.0
@@ -17,7 +17,7 @@
         email = "hwkwon@inu.ac.kr"
       )
     )
-#### Description:
+#### Description
      -Interactive R Shiny application for estimating
     sugar feeding requirements and economic costs
     associated with overwintering honey bee colonies.
