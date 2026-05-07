@@ -79,7 +79,7 @@ Input:
 
 Click:
 - Run calculation
-# The application calculates:
+## The application calculates:
 
 - total overwintering food,
 - total sugar required,
