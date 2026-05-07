@@ -155,6 +155,7 @@ The calculated values are approximate and should not replace professional beekee
 #### Prof. Hyung-Wook Kwon
 - E-mail: hwkwon@inu.ac.kr
 #### PhD. Olga Frunze
+- E-mail: frunzeon@gmail.com
 - Division of Life Science
 - Incheon National University
 - Republic of Korea
