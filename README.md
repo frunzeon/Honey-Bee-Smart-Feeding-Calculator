@@ -78,18 +78,17 @@ Input:
 ## Step 3 — Run Calculation
 
 Click:
-- Predict
+- Run calculation
 # The application calculates:
 
-	total overwintering food,
-	total sugar required,
-	estimated sugar costs,
-	estimated honey costs.
+- total overwintering food,
+- total sugar required,
+- estimated sugar costs,
+- estimated honey costs.
 ### Step 4 — View Results
 Results are displayed as:
-	data tables,
-	graphical outputs.
-### Step 5 — Get Outputs
+- data tables,
+- graphical outputs.
 
 ## Sugar-to-Honey Conversion
 
