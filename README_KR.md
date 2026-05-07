@@ -200,4 +200,4 @@ Republic of Korea
 
 ### Results for *Apis mellifera*
 
-![Apis mellifera Results](screenshots/results_Apis_melliferaKR.PNG)
+![Apis mellifera Results](screenshots/results_Apis_mellifera_KR.PNG)
