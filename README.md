@@ -62,6 +62,9 @@ Run App
 or execute:
 
 shiny::runApp()
+
+---
+
 # How to Use
 ## Step 1 — Select Bee Species
 Choose:
@@ -73,25 +76,23 @@ Input:
 	number of colonies,
 	sugar price per kg,
 	honey price per kg.
-##Step 3 — Run Calculation
+## Step 3 — Run Calculation
 
 Click:
-
 	Predict
-
-The application calculates:
+# The application calculates:
 
 	total overwintering food,
 	total sugar required,
 	estimated sugar costs,
 	estimated honey costs.
-###Step 4 — View Results
+### Step 4 — View Results
 Results are displayed as:
 	data tables,
 	graphical outputs.
-###Step 5 — Get Outputs
+### Step 5 — Get Outputs
 
-##Sugar-to-Honey Conversion
+## Sugar-to-Honey Conversion
 
 The application uses an approximate practical conversion factor: 1.5
 
@@ -102,7 +103,7 @@ This factor may vary depending on:
 	feeding method,
 	environmental temperature,
 	seasonal conditions.
-##Applications
+## Applications
 
 The application can be used for:
 
@@ -111,7 +112,7 @@ The application can be used for:
 	economic comparison of feeding approaches,
 	educational demonstrations,
 	extension and outreach activities.
-##Limitations
+## Limitations
 
 The tool provides approximate estimates only.
 
@@ -128,8 +129,8 @@ The application does not account for:
 
 Results should be interpreted together with field observations and local beekeeping experience.
 
-#Troubleshooting
-##Missing Packages
+# Troubleshooting
+## Missing Packages
 
 Install missing packages manually:
 
@@ -145,7 +146,7 @@ runExample("01_hello")
 
 If the example works, Shiny is correctly installed.
 
-##Repository Structure
+## Repository Structure
 HoneyBee_Overwintering_Calculator/
 │
 ├── app.R
@@ -165,13 +166,13 @@ License
 
 This project is distributed under the GNU General Public License v3.0 (GPL-3.0).
 
-##Disclaimer
+## Disclaimer
 
 This software is intended for educational and planning purposes only.
 
 The calculated values are approximate and should not replace professional beekeeping assessment or direct colony inspection.
 
-##Contact
+## Contact
 Prof. Hyung-Wook Kwon
 E-mail: hwkwon@inu.ac.kr
 PhD. Olga Frunze
