@@ -63,22 +63,22 @@ or execute:
 
 shiny::runApp()
 
-# How to Use
-## Step 1 — Select Bee Species
+## How to Use
+### Step 1 — Select Bee Species
 Choose:
 - A = *Apis cerana*
 - B = *Apis mellifera*
-## Step 2 — Enter Colony Information
+### Step 2 — Enter Colony Information
 Input:
 - number of frames per colony,
 - number of colonies,
 - sugar price per kg,
 - honey price per kg.
-## Step 3 — Run Calculation
+### Step 3 — Run Calculation
 
 Click:
 - Run calculation
-### The application calculates:
+#### The application calculates:
 
 - total overwintering food,
 - total sugar required,
