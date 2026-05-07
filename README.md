@@ -64,6 +64,7 @@ or execute:
 shiny::runApp()
 
 ## How to Use
+
 ### Step 1 — Select Bee Species
 Choose:
 - A = *Apis cerana*
@@ -75,11 +76,9 @@ Input:
 - sugar price per kg,
 - honey price per kg.
 ### Step 3 — Run Calculation
-
 Click:
 - Run calculation
 #### The application calculates:
-
 - total overwintering food,
 - total sugar required,
 - estimated sugar costs,
@@ -100,6 +99,7 @@ This factor may vary depending on:
 - feeding method,
 - environmental temperature,
 - seasonal conditions.
+- 
 ## Applications
 
 The application can be used for:
@@ -109,6 +109,7 @@ The application can be used for:
 - economic comparison of feeding approaches,
 - educational demonstrations,
 - extension and outreach activities.
+  
 ## Limitations
 
 The tool provides approximate estimates only.
@@ -126,8 +127,8 @@ The application does not account for:
 
 Results should be interpreted together with field observations and local beekeeping experience.
 
-# Troubleshooting
-## Missing Packages
+## Troubleshooting
+### Missing Packages
 
 Install missing packages manually:
 - install.packages("package_name")
