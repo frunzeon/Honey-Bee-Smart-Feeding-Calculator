@@ -71,14 +71,14 @@ Choose:
 - B = *Apis mellifera*
 ## Step 2 — Enter Colony Information
 Input:
-	number of frames per colony,
-	number of colonies,
-	sugar price per kg,
-	honey price per kg.
+- number of frames per colony,
+- number of colonies,
+- sugar price per kg,
+- honey price per kg.
 ## Step 3 — Run Calculation
 
 Click:
-	Predict
+- Predict
 # The application calculates:
 
 	total overwintering food,
