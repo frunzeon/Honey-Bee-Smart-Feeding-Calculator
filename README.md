@@ -63,13 +63,12 @@ or execute:
 
 shiny::runApp()
 
----
 
 # How to Use
 ## Step 1 — Select Bee Species
 Choose:
-A = Apis cerana
-B = Apis mellifera
+- A = *Apis cerana*
+- B = *Apis mellifera*
 ## Step 2 — Enter Colony Information
 Input:
 	number of frames per colony,
