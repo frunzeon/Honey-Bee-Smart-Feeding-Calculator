@@ -160,20 +160,20 @@ The calculated values are approximate and should not replace professional beekee
 - Incheon National University
 - Republic of Korea
 
-  ## Screenshots
+## Screenshots
 
 ### Main Interface
 
-![Main Interface](main_interface.PNG)
+![Main Interface](screenshots/main_interface.PNG)
 
 ### Example Calculation
 
-![Calculation](calculations.PNG)
+![Calculation](screenshots/calculations.PNG)
 
 ### Results for *Apis cerana*
 
-![Apis cerana Results](results_Apis_cerana.PNG)
+![Apis cerana Results](screenshots/results_Apis_cerana.PNG)
 
 ### Results for *Apis mellifera*
 
-![Apis mellifera Results](results_Apis_mellifera.PNG)
+![Apis mellifera Results](screenshots/results_Apis_mellifera.PNG)
