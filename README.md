@@ -56,18 +56,18 @@ Run “RUN1 pre.R” to install packages.
 
 ### 4. Run the Application
 
-Open RUN2.R in RStudio and click:
+Run "RUN2.R" in RStudio and click:
 Run App
 
 or execute:
 
 shiny::runApp()
-How to Use
-##Step 1 — Select Bee Species
+# How to Use
+## Step 1 — Select Bee Species
 Choose:
 A = Apis cerana
 B = Apis mellifera
-##Step 2 — Enter Colony Information
+## Step 2 — Enter Colony Information
 Input:
 	number of frames per colony,
 	number of colonies,
