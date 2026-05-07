@@ -23,19 +23,6 @@ The app is intended for:
 
 ---
 
-## Features
-
-- Interactive Shiny interface
-- Support for *Apis mellifera* and *Apis cerana*
-- Economic estimation of feeding strategies
-- Calculation of sugar requirements for 50% syrup
-- Visual outputs and tables
-- Downloadable Excel (`.xlsx`) and PNG (`.png`) outputs
-- Compatible with local RStudio execution or online deployment
-- User-friendly interface suitable for non-professional users
-
----
-
 ## Scientific Background
 
 Successful overwintering of honey bee colonies depends strongly on sufficient food reserves and colony strength. Feeding management strategies vary according to climate, bee species, local beekeeping traditions, and environmental conditions.
