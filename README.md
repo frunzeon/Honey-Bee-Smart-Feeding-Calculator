@@ -99,17 +99,7 @@ This factor may vary depending on:
 - feeding method,
 - environmental temperature,
 - seasonal conditions.
-- 
-## Applications
-
-The application can be used for:
-
-- planning overwintering feeding strategies,
-- estimating sugar requirements,
-- economic comparison of feeding approaches,
-- educational demonstrations,
-- extension and outreach activities.
-  
+   
 ## Limitations
 
 The tool provides approximate estimates only.
