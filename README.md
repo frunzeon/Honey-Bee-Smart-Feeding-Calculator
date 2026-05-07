@@ -159,3 +159,21 @@ The calculated values are approximate and should not replace professional beekee
 - Division of Life Science
 - Incheon National University
 - Republic of Korea
+
+  ## Screenshots
+
+### Main Interface
+
+![Main Interface](main_interface.PNG)
+
+### Example Calculation
+
+![Calculation](calculations.PNG)
+
+### Results for *Apis cerana*
+
+![Apis cerana Results](results_Apis_cerana.PNG)
+
+### Results for *Apis mellifera*
+
+![Apis mellifera Results](results_Apis_mellifera.PNG)
