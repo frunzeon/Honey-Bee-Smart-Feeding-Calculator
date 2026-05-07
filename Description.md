@@ -38,9 +38,9 @@ Imports:
     writexl,
     ggplot2,
     dplyr
-#### Authors:
+#### Authors
     - Olga Frunze [aut, cre],
     - Hyung-Wook Kwon [ths, cph]
-#### Maintainer:
+#### Maintainer
     - Olga Frunze <frunzeon@gmail.com>
-   - Hyung-Wook Kwon <hwkwon@inu.ac.kr>
+    - Hyung-Wook Kwon <hwkwon@inu.ac.kr>
