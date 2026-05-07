@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Honey Bee Smart Feeding Calculator Shiny App"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Frunze
+    given-names: Olga
+      affiliation: Incheon National University
+
+  - family-names: Kwon
+    given-names: Hyung-Wook
+      affiliation: Incheon National University
+
+version: 1.0.0
+date-released: 2026-05-07
+
+license: GPL-3.0
+
+repository-code: "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY"
+
+keywords:
+  - honey bee
+  - Apis mellifera
+  - Apis cerana
+  - overwintering
+  - Shiny
+  - beekeeping
+  - feeding
+  - economic estimation
