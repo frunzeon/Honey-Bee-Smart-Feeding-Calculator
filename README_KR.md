@@ -188,7 +188,7 @@ Republic of Korea
 
 ### Main Interface
 
-![Main Interface](screenshots/main_interface.PNG)
+![Main Interface](screenshots/main_interface_KR.PNG)
 
 ### Example Calculation
 
@@ -196,8 +196,8 @@ Republic of Korea
 
 ### Results for *Apis cerana*
 
-![Apis cerana Results](screenshots/results_Apis_cerana.PNG)
+![Apis cerana Results](screenshots/results_Apis_cerana_KR.PNG)
 
 ### Results for *Apis mellifera*
 
-![Apis mellifera Results](screenshots/results_Apis_mellifera.PNG)
+![Apis mellifera Results](screenshots/results_Apis_melliferaKR.PNG)
