@@ -53,11 +53,11 @@ https://posit.co/download/rstudio-desktop/
 
 Для установки пакетов запустите файл:
 
-“RUN1 pre.R”
+“RUN1_pre.R”
 
 ### 4. Запуск приложения
 
-Запустите файл "RUN2.R" в RStudio и нажмите:
+Запустите файл "RUN2_app.R" в RStudio и нажмите:
 
 Run App
 
