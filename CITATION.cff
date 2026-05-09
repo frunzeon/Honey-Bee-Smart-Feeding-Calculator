@@ -6,13 +6,13 @@ type: software
 authors:
   - family-names: Frunze
     given-names: Olga
-      affiliation: "Incheon National University, Republic of Korea, Department of Biology"
+    affiliation: "Department of Biology, Incheon National University, Republic of Korea"
 
   - family-names: Kwon
     given-names: Hyung-Wook
-      affiliation: "Incheon National University, Republic of Korea, Department of Biology"
+    affiliation: "Department of Biology, Incheon National University, Republic of Korea"
 
-version: 1.0.0
+version: 1.0
 date-released: 2026-05-07
 
 license: GPL-3.0-only
