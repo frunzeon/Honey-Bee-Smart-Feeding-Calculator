@@ -6,18 +6,18 @@ type: software
 authors:
   - family-names: Frunze
     given-names: Olga
-      affiliation: Incheon National University
+      affiliation: "Incheon National University, Republic of Korea, Department of Biology"
 
   - family-names: Kwon
     given-names: Hyung-Wook
-      affiliation: Incheon National University
+      affiliation: "Incheon National University, Republic of Korea, Department of Biology"
 
 version: 1.0.0
 date-released: 2026-05-07
 
-license: GPL-3.0
+license: GPL-3.0-only
 
-repository-code: "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY"
+repository-code:  "https://github.com/frunzeon/Honey-Bee-Smart-Feeding-Calculator"
 
 keywords:
   - honey bee
