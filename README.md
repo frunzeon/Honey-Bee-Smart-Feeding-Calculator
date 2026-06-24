@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Honey Bee Smart Feeding Calculator Shiny App** is a free interactive R Shiny application designed to support estimation of overwintering food reserve requirements and associated feeding costs in honey bee colonies.
+The **Honey Bee Smart Feeding Calculator** is a free interactive R Shiny application designed to support estimation of overwintering food reserve requirements and associated feeding costs in honey bee colonies.
 
 The application supports both:
 
