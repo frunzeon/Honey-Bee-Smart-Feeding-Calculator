@@ -1,4 +1,4 @@
-# Honey Bee Smart Feeding Calculator Shiny App
+# Honey Bee Smart Feeding Calculator
 
 ## Обзор
 
