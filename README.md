@@ -101,9 +101,9 @@ Results are displayed as:
 ## Calculation framework
 
 The calculator uses species-specific estimates of overwintering food reserves:
-- Apis cerana	2 kg per frame
-- Apis mellifera (Langstroth)	3 kg per frame
-- Apis mellifera (Dadant)	4 kg per frame
+- *Apis cerana*	2 kg per frame
+- *Apis mellifera* (Langstroth)	3 kg per frame
+- *Apis mellifera* (Dadant)	4 kg per frame
 * These values represent generalized reference estimates derived from practical beekeeping recommendations and management guidelines.
 * The application estimates target overwintering food reserves and corresponding reserve-based feeding requirements using these species-specific reference values.
 ### Economic outputs are calculated using user-defined honey and sugar prices.
