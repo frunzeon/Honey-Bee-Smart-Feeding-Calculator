@@ -178,13 +178,13 @@ Frunze, O., Park, J., Lee, J.-H., Kim, H., Woo, S.O., Han, S.M., & Kwon, H.-W. (
 
 ## 연락처
 
-Prof. Hyung-Wook Kwon
-권형욱 교수
+- Prof. Hyung-Wook Kwon
+- 권형욱 교수
 인천대학교 생명과학과
 대한민국
 E-mail: hwkwon@inu.ac.kr
 
-PhD. Olga Frunze 박사
+- PhD. Olga Frunze 박사
 인천대학교 생명과학과
 대한민국
 E-mail: frunzeon@gmail.com
