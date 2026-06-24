@@ -100,10 +100,10 @@ shiny::runApp()
 ## 계산 원리
 본 계산기는 종별 월동 식량 저장량 기준값을 사용합니다.
 종	기준 저장량
-- Apis cerana	벌집틀당 2 kg
-- Apis mellifera (Langstroth)	벌집틀당 3 kg
-- Apis mellifera (Dadant)	벌집틀당 4 kg
-- 
+- *Apis cerana*	벌집틀당 2 kg
+- *Apis mellifera* (Langstroth)	벌집틀당 3 kg
+- *Apis mellifera* (Dadant)	벌집틀당 4 kg
+  
 이 값들은 실제 양봉 관리 지침 및 현장 권장사항에 기반한 일반적인 참고값입니다.
 본 애플리케이션은 이러한 종별 기준값을 이용하여 목표 월동 식량 저장량과 이에 상응하는 급이 요구량을 추정합니다.
 경제성 계산은 사용자가 입력한 벌꿀 가격과 설탕 가격을 이용하여 수행됩니다.
